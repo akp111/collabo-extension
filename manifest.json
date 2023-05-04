@@ -1,0 +1,12 @@
+{
+    "name": "Collabo Extension",
+    "version": "1.0",
+    "description": "Seamles Board for collborative work",
+    "manifest_version": 3,
+    "permissions": [
+      "tabs"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
